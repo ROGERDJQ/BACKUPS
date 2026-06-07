@@ -1,0 +1,14 @@
+{
+    "bill_to": "BrightMedia LLC",
+    "ship_to": null,
+    "date": "Jan 1, 2026",
+    "balance_due": "US$444.00",
+    "items": [
+        {
+        "item": "Brand Identity Package",
+        "quantity": 1,
+        "rate": "US$1,800.00",
+        "amount": "US$1,800.00"
+        }
+    ]
+}

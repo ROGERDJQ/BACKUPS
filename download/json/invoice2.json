@@ -1,0 +1,14 @@
+{
+    "bill_to": "Global Strategy Group",
+    "ship_to": "Consulting Dept.",
+    "date": "Jan 11, 2026",
+    "balance_due": "US$5,700.00",
+    "items": [
+        {
+        "item": "Business Process Optimization",
+        "quantity": 40,
+        "rate": "US$150.00",
+        "amount": "US$6,000.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+Screen Time Usage Survey
+
+This survey is designed to understand users' daily app usage patterns and behaviors. The questionnaire collects information about the total time spent on apps, the types of apps used most frequently, peak usage periods, and related behaviors. This data will help analyze digital wellness trends and app usage habits.
+
+Please complete the following questions based on your app usage experience from yesterday.
+
+Question 1
+Approximately how much total time did you spend using apps on your phone or tablet yesterday? (Single choice)
+- Less than 1 hour
+- 1–3 hours
+- 3–5 hours
+- 5–8 hours
+- More than 8 hours
+Question 2
+What were the three types of apps you used the most yesterday? (Select exactly three)
+- Social Media (e.g., Instagram, Discord, WhatsApp)
+- Video/Streaming (e.g., YouTube, Netflix, TikTok)
+- Music/Audio (e.g., Spotify, Apple Music, SoundCloud)
+- Games
+- Utilities (e.g., Gmail, Google Calendar, Chrome, Google Maps)
+- Productivity/Work (e.g., Notion, Zoom, Google Docs, Microsoft Teams)
+- Shopping/Payments (e.g., Amazon, PayPal, Uber Eats)
+- Others
+Question 3
+During which time period yesterday did you use apps the most? (Single choice)
+- Early morning (6:00–9:00)
+- Late morning (9:00–12:00)
+- Afternoon (12:00–18:00)
+- Evening (18:00–23:00)
+- Late night (23:00–6:00 next day)
+Question 4
+Which of the following behaviors occurred yesterday? (Select all that apply)
+- Used a single app continuously for more than 2 hours
+- Went to bed later than planned because of app use
+- Used a screen time or focus mode tool (e.g., Digital Wellbeing, Screen Time)
+- None of the above happened

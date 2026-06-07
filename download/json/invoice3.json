@@ -1,0 +1,14 @@
+{
+    "bill_to": "EduTech Solutions",
+    "ship_to": "Warehouse B 123 Main St",
+    "date": "Jan 7, 2026",
+    "balance_due": "US$2,319.40",
+    "items": [
+        {
+        "item": "10x Educational Tablets",
+        "quantity": 10,
+        "rate": "US$299.00",
+        "amount": "US$2,990.00"
+        }
+    ]
+}

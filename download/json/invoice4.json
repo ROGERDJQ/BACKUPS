@@ -1,0 +1,14 @@
+{
+    "bill_to": "EduTech Solutions",
+    "ship_to": "Warehouse B 123 Main St",
+    "date": "Jan 1, 2026",
+    "balance_due": "US$1,151.44",
+    "items": [
+        {
+        "item": "Arduino Education Starter Kit",
+        "quantity": 1,
+        "rate": "US$1,200.00",
+        "amount": "US$1,200.00"
+        }
+    ]
+}
